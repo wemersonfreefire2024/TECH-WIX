@@ -2,9 +2,9 @@
 // CONFIGURAÇÃO DA TECH WIX
 // Troque pelo número do WhatsApp da loja.
 // Formato: 55 + DDD + número, somente números.
-// Exemplo: 5598999999999
+// Exemplo: 5598991395194
 // ================================
-const WHATSAPP = "5598999999999";
+const WHATSAPP = "5598991395194";
 
 const menuBtn = document.querySelector(".menu-btn");
 const menu = document.querySelector(".menu");
